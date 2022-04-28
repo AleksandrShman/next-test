@@ -1,6 +1,8 @@
 .link {
  text-decoration: none;
- color: white;
+ color: black;
+ border: 15px;
+ margin: 20px;
 }
 
 .nav {
