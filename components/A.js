@@ -7,6 +7,7 @@ function A({ text, href }) {
    <a className={styles.link}>{text}</a>
   </Link>
  )
+ 
 }
 
 export default A
