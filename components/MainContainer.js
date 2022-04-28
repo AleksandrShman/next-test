@@ -11,9 +11,7 @@ function MainContainer({ children, keywords }) {
     <title>Главная</title>
    </Head>
    <div className={styles.nav}>
-
-
-    <A href={'/'} text='Главная' />
+    <A href={'/'} text='Главная страница' />
     <A href={'/users'} text='Пользователи' />
    </div>
    <div>
